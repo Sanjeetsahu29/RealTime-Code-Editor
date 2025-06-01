@@ -3,7 +3,7 @@ import React, { useEffect } from 'react'
 import io from "socket.io-client";
 import { useState } from "react";
 import Editor from "@monaco-editor/react";
-const socket = io("https://realtime-code-editor-ry3i.onrender.com")
+const socket = io("https://realtime-code-editor-5o4d.onrender.com")
 const App = () => {
   const [joined, setJoined] = useState(false)
   const [roomId, setRoomId] = useState("");
