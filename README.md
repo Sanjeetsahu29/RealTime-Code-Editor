@@ -3,6 +3,15 @@
 ## Project Overview
 
 This is a real-time collaborative code editor application that enables multiple developers to work together on code simultaneously. Think of it as "Google Docs for code" - users can join shared rooms, see each other's changes in real-time, and collaborate seamlessly.
+![Screenshot (26)](https://github.com/user-attachments/assets/45676f07-0677-4c1b-ae99-3d0437eb9e77)
+![Screenshot (27)](https://github.com/user-attachments/assets/6077eeed-0ec0-4f5d-85c5-368314930c02)
+![Screenshot (28)](https://github.com/user-attachments/assets/20735794-235d-4576-b924-30fef039af75)
+![Screenshot (29)](https://github.com/user-attachments/assets/f3dab01c-6d13-4356-8a05-62d731a7bc3e)
+![Screenshot (30)](https://github.com/user-attachments/assets/c30425fe-0dcc-4632-8052-8d0601d3f8d9)
+![Screenshot (31)](https://github.com/user-attachments/assets/40d38b9b-0911-4a3d-a423-76a7a0076a84)
+![Screenshot (32)](https://github.com/user-attachments/assets/91f1bb7f-9e25-4bea-a91e-c04840134ea0)
+![Screenshot (33)](https://github.com/user-attachments/assets/1b79208d-046a-4633-b9c7-7e52f60f6a9d)
+![Screenshot (34)](https://github.com/user-attachments/assets/cba609d2-4d7d-4bd5-979e-faeda11b301b)
 
 ## Architecture Overview
 
